@@ -8,3 +8,5 @@ twins:
   name: Traffic camera 1
 - url: https://IoT-NGIN.github.io/twinbase-smart-city/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
+- url: https://IoT-NGIN.github.io/twinbase-smart-city/591a044e-1f2c-4b67-b810-ee5c6fab689d
+  name: Camera 2
