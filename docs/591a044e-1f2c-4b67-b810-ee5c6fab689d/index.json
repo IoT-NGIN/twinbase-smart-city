@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/591a044e-1f2c-4b67-b810-ee5c6fab689d",
+    "hosting-iri": "https://IoT-NGIN.github.io/twinbase-smart-city/591a044e-1f2c-4b67-b810-ee5c6fab689d",
+    "name": "Camera 2",
+    "description": "Write description here.",
+    "baseurl": "https://IoT-NGIN.github.io/twinbase-smart-city",
+    "edit": "https://github.com/IoT-NGIN/twinbase-smart-city/edit/main/docs/591a044e-1f2c-4b67-b810-ee5c6fab689d/index.yaml",
+    "edit-json": "https://github.com/IoT-NGIN/twinbase-smart-city/edit/main/docs/591a044e-1f2c-4b67-b810-ee5c6fab689d/index.json"
+}
